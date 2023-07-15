@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "97105545070",
+    "project_id": "posturadetector",
+    "storage_bucket": "posturadetector.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97105545070:android:57ffd25b090d379defe37f",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97105545070-sm1lfa7vs48v3l5dgl5fl1p4ta0lbkoe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASq22zlt7Smk-7WLhzfU2U107iQmPs8uY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97105545070-sm1lfa7vs48v3l5dgl5fl1p4ta0lbkoe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
